@@ -1,31 +1,16 @@
 ---
 home: true
 heroImage: /avatar.png
-actionText: Let`s Go →
 actionLink: /zh/standard/Start.html
 sidebarDepth: 2
 sidebar: auto
-footer: MIT Licensed | Copyright © 1970-present Jasonandjay
+footer:  Copyright © 1970-present 1326023569
 ---
 
 <div style="text-align: center">
   <Bit/>
 </div>
 
-<div class="features">
-  <div class="feature">
-    <h2>勤于总结</h2>
-    <p>不断总结过去的知识点。</p>
-  </div>
-  <div class="feature">
-    <h2>乐于学习</h2>
-    <p>不断接触学习新的知识点。</p>
-  </div>
-  <div class="feature">
-    <h2>终于实践</h2>
-    <p>不断在项目中锤炼知识点。</p>
-  </div>
-</div>
 
 ### 起步就像数 1, 2, 3 一样容易
 
