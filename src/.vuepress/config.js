@@ -34,50 +34,48 @@ module.exports = {
       '/': {
         label: '简体中文',
         repo: '1326023569/study',
-      
-        selectText: '选择语言',
-        editLinkText: '帮助我们改进内容',
-        lastUpdated: '上次更新',
         nav: [
-          {
-            text: '快速搭建开发环境',
-            link: '/zh/standard/Start.md'
-          },
-          {
-            text: '算法',
-            items: [
-              { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
-              { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
-              { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
-            ],
-          },
+          // {
+          //   text: '快速搭建开发环境',
+          //   link: '/zh/standard/Start.md'
+          // },
+          // {
+          //   text: '算法',
+          //   items: [
+          //     { text: '编程基本功', link: '/zh/algorithm/Charpter4.md'},
+          //     { text: '数学趣题(一)', link: '/zh/algorithm/Charpter5.md'},
+          //     { text: '数学趣题(二)', link: '/zh/algorithm/Charpter6.md'}
+          //   ],
+          // },
           {
             text: '项目相关',
             items: [
-              { text: '前端规范', link: '/zh/standard/Standard.md'},
-              { text: '项目流程', link: '/zh/standard/Project.md'},
+              // { text: '前端规范', link: '/zh/standard/Standard.md'},
+              // { text: '项目流程', link: '/zh/standard/Project.md'},
               { text: '前后端交互', link: '/zh/standard/Cooperation.md'},
-              { text: '移动端兼容问题', link: '/zh/standard/Compatibility.md'}
+              { text: '移动端兼容问题', link: '/zh/standard/Compatibility.md'},
+              { text: '单页面应用', link: '/zh/standard/Spa.md'},
+              { text: '项目优化', link: '/zh/standard/Improve.md'},
             ],
           },
           {
             text: '知名公司面试题',
             items: [
-              { text: '面试必看', link: '/zh/interview/index.md'},
+              // { text: '面试必看', link: '/zh/interview/index.md'},
               { text: '阿里巴巴', link: '/zh/interview/ali.md'},
-              { text: '龙湖地产', link: '/zh/interview/longhu.md'}
+              // { text: '龙湖地产', link: '/zh/interview/longhu.md'}
             ]
           },
           {
             text: '知识点笔记',
             items: [
-              { text: '在线思维导图', link: '/zh/interface/Mind.md'},
+              // { text: '在线思维导图', link: '/zh/interface/Mind.md'},
               { text: 'Vue', link: '/zh/vue/' },
               { text: 'React', link: '/zh/react/'},
               { text: '小程序', link: '/zh/miniapp/' },
-              { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
-              { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
-              { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
+              // { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
+              // { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
+              // { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
             ]
           },
         ],

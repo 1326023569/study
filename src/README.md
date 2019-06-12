@@ -12,7 +12,7 @@ footer:  Copyright © 1970-present 1326023569
 </div>
 
 
-### 起步就像数 1, 2, 3 一样容易
+<!-- ### 起步就像数 1, 2, 3 一样容易
 
 ``` bash
 # 安装
@@ -30,4 +30,4 @@ vuepress build
 
 ::: warning 兼容性注意事项
 VuePress 要求 Node.js >= 8。
-:::
+::: -->
