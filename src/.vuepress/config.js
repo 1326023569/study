@@ -66,18 +66,19 @@ module.exports = {
               // { text: '龙湖地产', link: '/zh/interview/longhu.md'}
             ]
           },
-          // {
-          //   text: '知识点笔记',
-          //   items: [
+          {
+            text: '知识点笔记',
+            items: [
           //     { text: '在线思维导图', link: '/zh/interface/Mind.md'},
-          //     { text: 'Vue', link: '/zh/vue/' },
-          //     { text: 'React', link: '/zh/react/'},
-          //     { text: '小程序', link: '/zh/miniapp/' },
+              { text: 'Vue', link: '/zh/vue/' },
+              { text: 'React', link: '/zh/react/'},
+              { text: '小程序', link: '/zh/miniapp/' },
+              { text: 'git操作', link: '/zh/git/' },
           //     // { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
           //     // { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
           //     // { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
-          //   ]
-          // },
+            ]
+          },
         ],
         sidebar: {
           '/guide/': genSidebarConfig('指南'),
@@ -90,7 +91,7 @@ module.exports = {
           ]}],
           '/zh/miniapp/': [{title: '小程序知识点', children: [
             '', 'WXS', 'wepy组件通信', '小程序事件', '小程序路由', '小程序组件', '小程序组件化'
-          ]}]
+          ]}],
         }
       }
     },
