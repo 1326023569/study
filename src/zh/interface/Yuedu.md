@@ -179,7 +179,7 @@ sidebarDepth: 2
 	data: {
 		list: [{
 			id: 1,
-			name: '北京八维门店',
+			name: '北京八十门店',
 			img: '',
 			address: '北京市海淀区唐家岭57号',
 			info: '北京总部',
@@ -250,7 +250,7 @@ sidebarDepth: 2
 	data: {
 		list: [{
 			id: 1,
-			name: '北京八维门店',
+			name: '北京八十门店',
 			img: '',
 			address: '北京市海淀区唐家岭57号',
 			info: '北京总部',
@@ -281,7 +281,7 @@ sidebarDepth: 2
       rent: 50,
       return: 30,
       remain: 20,
-      shop: '北京八维门店',
+      shop: '北京八十门店',
 			info: '讲诉一个地主的悲惨生活，从一个地主到破产，到身边的亲人一个个离他而去，留下他自己和一头老黄牛的故事',
 			city: '北京',
 			status: 1,	// 1表示上架中，2表示下架中

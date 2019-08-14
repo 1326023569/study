@@ -50,7 +50,7 @@ let person = {
     name: 'zs',
     age: 18,
     hoppy: ['吃饭', '睡觉', '打豆豆'],
-    address: '北京八维'
+    address: '北京八十'
 }
 let { obj: objs, obj: obj1 } = {
     obj: person
