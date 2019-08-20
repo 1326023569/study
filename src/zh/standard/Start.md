@@ -45,7 +45,6 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 ## 沟通工具
 - 邮箱
-- 钉钉
 
 ## 如何解决问题
 ### 常用方法
